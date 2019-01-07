@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Thu May 10 19:29:57 2018
 
-@author: muthuvel
-"""
 import re
 url = "http://www.chicagotribune.com/sports/basketball/bulls/ct-spt-bulls-mailbag-mikal-bridges-michael-jordan-20180510-story.html#nt=oft01a-2la1"
 def parseURL(url):
