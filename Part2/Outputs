@@ -1,0 +1,39 @@
+
+###### Accuracy on Neural Networks####
+Test set accuracy = 0.9
+
+Confusion Matrix:
+[[ 27.   0.   2.   1.]
+ [  1.  28.   1.   0.]
+ [  3.   0.  26.   1.]
+ [  1.   0.   2.  27.]]
+
+Unknown set accuracy = 0.75
+Confusion Matrix:
+[[ 3.  0.  0.  2.]
+ [ 1.  4.  0.  0.]
+ [ 1.  0.  4.  0.]
+ [ 0.  1.  0.  4.]]
+
+
+
+#### Accuracy on Naive Bayes############
+Test set accuracy = 0.941666666667
+
+Confusion Matrix:
+[[ 27.   0.   2.   1.]
+ [  0.  30.   0.   0.]
+ [  2.   0.  28.   0.]
+ [  1.   0.   1.  28.]]
+
+Unknown dataset accuracy = 0.8
+
+Confusion Matrix:
+[[ 3.  0.  0.  2.]
+ [ 0.  4.  1.  0.]
+ [ 0.  0.  4.  1.]
+ [ 0.  0.  0.  5.]]
+
+
+
+

@@ -1,0 +1,12 @@
+The Next Flu Pandemic Will Appear When You Least Expect It - The New York Times
+If a new flu pandemic emerges, it may be easy to spot. The epidemic is most likely to appear in spring or summer, researchers have found — not in the midwinter depths of the flu season.
+Normally flu strikes in winter, when children are crowded into classrooms and the air is cold and dry — ideal for transmitting the influenza virus. But historically, that has not been true of the great flu epidemics.
+A half-dozen flu pandemics — including those of 1889, 1918 (the Spanish flu), 1957, 1968 and 2009 (the swine flu) — were all first detected between late March and late July, according to a study published recently in PLOS Computational Biology by researchers at the University of Texas at Austin and the Institute for Disease Modeling in Bellevue, Wash.
+[READ: Questions and Answers About This Year’s Flu Season]
+The reason may be that someone infected with the flu appears to be protected briefly against infection with any other flu virus, even genetically different ones, said Spencer J. Fox, a graduate student in infectious disease modeling at the University of Texas at Austin and an author of the paper.
+That protection lasts about six weeks, Mr. Fox said. Even a highly infectious flu virus would be temporarily stymied in winter if the seasonal flu had already infected much of the population.
+The novel virus could flourish only once that protection faded — in late March, at the earliest — and only until summer heat and humidity arrived. (That was the pattern in the 2009 H1N1 swine flu: it spread to the United States from Mexico in April, nearly disappeared in the summer, and returned in force in October.)
+How is it possible that one flu virus protects against another? Researchers at the Icahn School of Medicine at Mount Sinai may have found an explanation.
+In the Proceedings of the National Academy of Sciences last year, the scientists reported that when flu invades certain cells lining narrow lung airways, the cells become inflamed. Many die immediately, but the survivors remain inflamed for weeks, impervious to infection with other viruses.
+The team showed that human cells that survived an attack of influenza A were even protected against influenza B, which is genetically a very different virus (they also found this in mice).
+They also noted that the onset of cold and sniffles season was delayed in 2009, possibly because that year’s swine flu protected people even against R.S.V., the virus that causes many common colds.

@@ -1,0 +1,40 @@
+New Gene-Therapy Treatments Will Carry Whopping Price Tags - The New York Times
+The first gene therapy treatment in the United States was approved recently by the Food and Drug Administration, heralding a new era in medicine that is coming faster than most realize — and that perhaps few can afford.
+The treatment, Kymriah, made by Novartis, is spectacularly effective against a rare form of leukemia, bringing remissions when all conventional options have failed. It will cost $475,000.
+With gene therapy, scientists seek to treat or prevent disease by modifying cellular DNA. Many such treatments are in the wings: There are 34 in the final stages of testing necessary for F.D.A. approval, and another 470 in initial clinical trials, according to the Alliance for Regenerative Medicine, an advocacy group.
+The therapies are aimed at extremely rare diseases with few patients; most are meant to cure with a single injection or procedure. But the costs, like that of Kymriah, are expected to be astronomical, alarming medical researchers and economists.
+One drug, to prevent blindness in those with a rare genetic disease, for example, is expected to cost between $700,000 and $900,000 per patient on average, noted Dr. Aaron Kesselheim, director of the program on regulation, therapeutics and law at Brigham and Women’s Hospital.
+Drug makers argue that the prices ought to reflect the value of a curative treatment to the patient. Dr. Kesselheim and other experts are far from convinced.
+“We don’t pay the fire department that way,” he said. “When the fire department shows up at a burning house, they don’t ask, ‘How much is it worth to you to put out the fire?’ ”
+Executives at drug companies declined to say what they plan to charge for the gene therapies they are developing. But they said a variety of factors justified setting unprecedented prices.
+By definition, there are very few patients with the rare diseases that the treatments target. Companies thus will have comparatively fewer opportunities to make enough money to pay for their investment, to turn a profit and to fund future research.
+“The reason why it’s a peculiar situation is not only because a lot of these gene therapy products are targeting small populations,” said Matt Kapusta, chief executive of UniQure, which is developing hemophilia treatments. “It is a one-time administration with potentially curative impact for the patient.”
+Mr. Kapusta also noted that one injection of UniQure’s drug could be expected to replace regular infusions of blood products that can cost $5 million over 10 years.
+“When you are spending a lot of money to develop therapies for a rare disease, you need to enable a larger price umbrella,” Mr. Kapusta said. “If you are saving $5 million per patient, that gives you a sense of value to the payer.”
+Jeffrey D. Marrazzo, chief executive of Spark Therapeutics, which is developing the drug to prevent a form of blindness, said it should be worth a lot to keep your eyesight. “We should be compensated for generating that value,” he said.
+Elizabeth Pingpank, a spokeswoman for Bluebird Bio, which is developing several gene therapies, said the company realizes its prices will be a challenge.
+Bluebird and several other companies have set up a consortium with academics to try to figure out novel ways to enable insurers to pay the expected high prices.
+“We recognize that most payers in the U.S. are not currently set up to support one-time therapies that generate long-term transformative benefits,” Ms. Pingpank said.
+Indeed, health care executives already are rushing to develop new payment models.
+When Kymriah was approved, officials at Novartis said they would take the unusual step of taking into account how well it worked in a particular patient.
+The company said it was collaborating with the federal Centers for Medicare and Medicaid Services on an approach in which, for children and young adults, there would be no charge if the patient did not respond to the treatment within a month.
+If, as expected, Kymriah is approved for other blood cancers, its price may vary depending on how effective it is for those diseases.
+Express Scripts, a pharmacy benefit manager that contracts with insurance companies to provide medications to patients, has taken up the cost question with gene therapy companies, insurers and the federal government.
+“It’s amazing how many think this is in the future,” said Dr. Steve Miller, chief medical officer at Express Scripts, said of the looming payment problem. “This is right now.”
+The idea favored by Dr. Miller and others is to pay for these novel drugs as you might a mortgage on a house.
+An insurer would pay a large fraction up front, when the patient is treated, and then make regular payments until the entire bill is paid — or the disease returns.
+That would require an unprecedented type of cooperation among insurers. Patients often change insurers, and there is no benefit to a new insurer in continuing payments for an injection that a patient had long ago — even if it was curative.
+Bluebird Bio has a market capitalization of $4 billion, although it has no product yet, noted Dr. Peter B. Bach, director of the Center for Health Policy and Outcomes at Memorial Sloan Kettering Cancer Center.
+Investors “are confident that when they get one of these cures approved, they will get a magnificent price,” he said.
+Drug makers have long argued that rising prices are necessary to support the costs of research and development. Yet a study published on Monday estimated the cost of developing a new cancer drug to be far less than many experts had believed, even as revenues have soared.
+The industry’s warnings that without high reimbursements, the field of gene therapy will wither is “the classic story of the boy who cried wolf,” Dr. Bach said.
+Development costs are already mitigated by special economic incentives for orphan drugs, he noted, including a 50 percent tax credit on the costs of research and development, among others.
+And once a company creates a delivery system — say, a modified virus to deliver a gene into a cell — it can be used over and over again to create a variety of treatments, said Dr. James Wilson, director of the gene therapy program at the Perelman School of Medicine at the University of Pennsylvania.
+That should reduce development costs, Dr. Wilson said. And because the diseases in question are so rare, the F.D.A. is allowing gene therapy companies to conduct very small clinical trials — with as few as a dozen or so patients, and without control groups for comparison.
+That costs much less than a typical drug trial, which can involve tens of thousands of patients.
+Dr. Wilson has his own nightmare about gene therapy, a cautionary tale that nags at him. It involves Glybera, the first such drug approved in the West.
+Glybera was approved in Europe for treatment of a very rare disease, lipoprotein lipase deficiency. In some ways, it was a poor start for gene therapy.
+What evidence there was to support it came from studies in just 27 people, with no control group. The drug was not lifesaving; the disease is not fatal. Mostly, Glybera was supposed to reduce the frequency of hospitalizations.
+But the price was stunning: more than $1 million per treatment. It was used just once, by a patient in Germany. Then it was abandoned in the face of low demand.
+“We are at a real crossroads,” Dr. Wilson said. One more debacle like Glybera, he fears, and investors will give up on the field.
+Then patients with rare diseases “will be left in the dust.”

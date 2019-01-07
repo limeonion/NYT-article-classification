@@ -1,0 +1,17 @@
+‘Smart Thermometers’ Track Flu Season in Real Time - The New York Times
+A company making “smart thermometers” that upload body temperatures to its website claims to be tracking this year’s flu season faster and in greater geographic detail than public health authorities can.
+This year’s flu season — which the Centers for Disease Control and Prevention considers “moderately severe” — has left Missouri and Iowa the “sickest states in the country,” said Inder Singh, the founder of Kinsahealth.com.
+California has had its worst outbreak in five years, with nearly 1 percent of the state exhibiting flu symptoms on Jan. 2, he added. By contrast, New York, New England and the Southeast have had relatively mild seasons so far, but cases are rising and should peak in two weeks.
+Mr. Singh’s data paints a different picture from that of the C.D.C., which held a news conference Friday to announce that flu activity was “widespread” across the continental United States, which is unusual. (Hawaii’s outbreak is smaller, the agency said.)
+“There’s lots of flu in lots of places,” said Dr. Daniel B. Jernigan, director of the C.D.C.’s flu division.
+[READ: Questions and Answers About This Year’s Flu Season]
+Hospitalization and death rates, though climbing, are still lower than was expected, Dr. Jernigan added, even though most of this season’s cases are H3N2, which is typically the most deadly seasonal strain.
+Although 20 children and teenagers have already died of flu or its consequences, the 2014-2015 season — the one this season most closely resembles — killed 148. (This year’s final death toll will not be known until summer, because the deaths from lingering pneumonia may occur as late as June.)
+The C.D.C. data comes from hospitals and clinics that report how many cases of “influenza-like illness” they treat. Delays can result if clinic statisticians are busy or if state health departments do not pass on the figures quickly.
+Kinsa, by contrast, is able almost instantly to spot fever spikes in states — or even in cities and neighborhoods. More than 500,000 households now own its smartphone-connected oral and ear thermometers, Mr. Singh said, and the company gets about 25,000 readings each day.
+(Of course, the company cannot measure hospitalizations, deaths, or which strains of flu are circulating, or consistently distinguish flu from other febrile illnesses.)
+Kinsa’s technology was approved by the Food and Drug Administration in 2014 and gathered data in subsequent flu seasons; the company hopes to soon publish a study by outside experts assessing its accuracy in measuring the seasonal spread.
+Those experts, Mr. Singh said, found the data to be more accurate than Google’s Flu Trends, which Google shut down three years ago after it missed the peak of the 2013-2014 season.
+Google tracked internet searches for terms like “flu,” “fever” and so on, but could be misled by, for example, searches triggered by news coverage.
+Kinsa’s smartphone app uses a bubble game to entice children to take their temperatures. If fever is detected, it asks parents about other symptoms and then offers basic medical advice or urges the user to see a doctor.
+The makers of cold medications, disinfectants, toothbrushes and even orange juice buy advertising on the app, Mr. Singh said.
