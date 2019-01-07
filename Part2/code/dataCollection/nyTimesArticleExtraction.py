@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 23 17:24:54 2018
 
-@author: muthuvel
-"""
 from nytimesarticle import articleAPI
 from bs4 import BeautifulSoup
 import urllib
