@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May  8 01:00:31 2018
 
-@author: hadoop
-"""
 
 from pyspark.ml import Pipeline
 from pyspark.ml.classification import DecisionTreeClassifier
